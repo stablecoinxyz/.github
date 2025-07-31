@@ -1,1 +1,1 @@
-
+Stable Coin Inc (SBC) is a company focused on developing stablecoin technology and surrounding infrastructure to enable its growth. Our flagship product is the SBC stablecoin, designed to provide stability and utility across multiple blockchain networks.

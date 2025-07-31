@@ -1,4 +1,3 @@
-<sub>[stablecoin.xyz](https://stablecoin.xyz)</sub>
 # Stable Coin (SBC)
 
 SBC is focused on developing stablecoin technology and surrounding infrastructure to enable its growth. Our flagship product is the SBC stablecoin, designed to provide stability and utility across multiple blockchain networks.
@@ -16,3 +15,5 @@ Explore detailed technical docs and guides for integration:
 
 - Visit our [Docs](https://docs.stablecoin.xyz/) for developer guides and tools.
 - Reach out on [Telegram](https://t.me/+UoSbX_UBZSA2MGUx) for questions and support. 
+
+<sub>[stablecoin.xyz](https://stablecoin.xyz)</sub>

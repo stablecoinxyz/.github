@@ -9,6 +9,8 @@ SBC is focused on developing stablecoin technology and surrounding infrastructur
 - [Paymaster](https://github.com/stablecoinxyz/paymaster-service): Custom paymaster to enable gasless transcations. 
 - [MassPay](https://github.com/stablecoinxyz/masspay): Batch payments in SBC to multiple recipients with zero gas fees.  
 - [Swap](https://github.com/stablecoinxyz/swap): Gas-free swaps between USDC and SBC.
+- [x402 Facilitator](https://github.com/stablecoinxyz/x402-facilitator): Verifies and settles payments using the x402 protocol.
+- [x402 SDK](https://github.com/stablecoinxyz/x402-sdk): SDK for the x402 HTTP payment protocol using SBC stablecoin. Gate your API behind micropayments, or pay for x402-gated APIs — in a few lines of code.
 
 ## Documentation & community
 

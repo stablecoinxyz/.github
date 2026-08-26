@@ -100,6 +100,12 @@ With your permission, we may credit researchers who responsibly disclose valid f
 
 Credit does not imply bounty eligibility or payment. A researcher who remains anonymous can still receive credit, but cannot receive a bounty payment. See [Bounty payment and identity verification](#bounty-payment-and-identity-verification).
 
+## Acknowledgments
+
+Researchers who report valid findings and consent to being named are listed here. Credit does not imply bounty eligibility or payment.
+
+- **Md. Jakariya** — input validation on the x402 facilitator payment path, 2026-08
+
 ## Safe harbor
 
 We will not pursue legal action against you for good-faith security research that follows this policy, provided that you:
@@ -120,4 +126,4 @@ This policy does not create a contract, employment relationship, partnership, or
 
 SBC may modify this policy, its scope, its bounty practices, or its disclosure process at any time. The version in effect when a report is submitted will generally govern its review, subject to applicable law and the specific terms communicated by SBC.
 
-Last updated: 2026-08-25
+Last updated: 2026-08-26
